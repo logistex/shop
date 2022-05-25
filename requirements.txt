@@ -31,7 +31,7 @@ openssl==1.1.1g
 pillow==7.1.1
 pip==20.1.1
 pycparser==2.20
-pyjwt==1.7.1
+pyjwt==2.4.0
 pymysql==0.9.3
 pyopenssl==19.1.0
 pyphen==0.9.5
